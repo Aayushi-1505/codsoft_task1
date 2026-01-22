@@ -23,6 +23,6 @@ The goal of this task was to design a professional portfolio using core web tech
 - Live hosting using GitHub Pages  
 
 ## Live Preview
-🔗 https://aayushi-1505.github.io/CODSOFT/
+🔗 https://aayushi-1505.github.io/codsoft_task1/
 
 
